@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 110" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E5A323" />
+      <stop offset="100%" stop-color="#C28212" />
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D9381E" />
+      <stop offset="100%" stop-color="#9C1E0B" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- Circular Heritage Crest -->
+  <g transform="translate(15, 7)" filter="url(#shadow)">
+    <!-- Outer ornate ring -->
+    <circle cx="48" cy="48" r="46" fill="#FFF8E9" stroke="url(#goldGrad)" stroke-width="3" />
+    <circle cx="48" cy="48" r="41" fill="none" stroke="#D9381E" stroke-width="1.2" stroke-dasharray="3,2" />
+    
+    <!-- Central Temple Kalash / Tilak emblem -->
+    <path d="M48 16 C53 26 62 36 62 48 C62 56 56 62 48 62 C40 62 34 56 34 48 C34 36 43 26 48 16 Z" fill="url(#redGrad)" />
+    <!-- Golden Chandlo / Bindi -->
+    <circle cx="48" cy="45" r="5" fill="url(#goldGrad)" />
+    <!-- Sacred Lotus Base -->
+    <path d="M26 65 C34 60 41 62 48 67 C55 62 62 60 70 65 C64 73 56 75 48 75 C40 75 32 73 26 65 Z" fill="url(#goldGrad)" />
+  </g>
+
+  <!-- Typography: Brand Name -->
+  <text x="126" y="44" font-family="'Space Grotesk', 'Arial Black', sans-serif" font-weight="900" font-size="28" fill="#3B2418" letter-spacing="1.5">
+    BHAGVAT PRASADAM
+  </text>
+
+  <!-- Tagline: Product Title & Gujarati Script -->
+  <g transform="translate(126, 54)">
+    <!-- Golden Badge Pill -->
+    <rect x="0" y="3" width="132" height="24" rx="12" fill="url(#goldGrad)" />
+    <text x="66" y="20" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="13" fill="#3B2418" text-anchor="middle" letter-spacing="1">
+      MIX CHAVANU
+    </text>
+
+    <!-- Gujarati Script & Heritage descriptor -->
+    <text x="144" y="20" font-family="'Inter', sans-serif" font-weight="700" font-size="14" fill="#D9381E">
+      મિક્સ ચવાણું
+    </text>
+    <text x="238" y="20" font-family="'Inter', sans-serif" font-weight="600" font-size="11" fill="#7A5F4F" letter-spacing="0.5">
+      • Authentic Gujarati Mixture
+    </text>
+  </g>
+
+  <!-- Bottom Purity Ribbon -->
+  <text x="126" y="96" font-family="'Inter', sans-serif" font-weight="600" font-size="10.5" fill="#8C6542" letter-spacing="0.8">
+    100% PURE SING TEL • SATVIK NILKANTHDHAM POICHA TRADITION
+  </text>
+</svg>
