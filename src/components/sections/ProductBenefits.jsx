@@ -24,10 +24,10 @@ export default function ProductBenefits() {
         <div className="text-center max-w-xl mx-auto mb-8 sm:mb-10">
           <h2 className="font-display font-black text-2xl sm:text-4xl text-[#3B2418] tracking-tight leading-tight">
             Why Choose Authentic <br />
-            <span className="text-[#F28C28]">Mix Chavanu?</span>
+            <span className="text-[#F28C28]">Gujarati Mix Chavanu?</span>
           </h2>
           <p className="text-xs sm:text-sm text-[#7A5F4F] mt-1.5">
-            The authentic Gujarati mixture namkeen handcrafted with love, 100% pure Sing Tel, and authentic Satvik care in Nilkanthdham Poicha.
+            The authentic Gujarati mixture namkeen handcrafted with love, 100% pure Sing Tel (groundnut oil), and authentic Satvik care in Nilkanthdham Poicha.
           </p>
         </div>
 

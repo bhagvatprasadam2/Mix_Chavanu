@@ -53,9 +53,9 @@ export default function HeroSection() {
 
             {/* Main Heading */}
             <h1 className="font-display font-black text-3xl sm:text-5xl lg:text-6xl leading-[1.05] tracking-tight text-[#3B2418] mb-3.5">
-              Crunch Into Authentic <br />
+              Authentic Gujarati <br />
               <span className="text-[#F28C28] inline-block relative">
-                Mix Chavanu.
+                Mix Chavanu
                 <svg
                   className="absolute -bottom-2 left-0 w-full text-[#E5A323]"
                   height="10"
@@ -77,10 +77,10 @@ export default function HeroSection() {
             <p className="text-base sm:text-lg font-bold text-[#A8681E] mb-2.5">
               મિક્સ ચવાણું • नमकीन मिक्स चवाणु
             </p>
-
+            
             {/* Description */}
             <p className="text-sm sm:text-base text-[#3B2418]/85 leading-relaxed max-w-xl mb-4 sm:mb-5">
-              Savor the authentic taste of <strong>Mix Chavanu</strong>, a crunchy and flavorful Gujarati namkeen snack handcrafted by <strong>Bhagvat Prasadam</strong>. Made from premium lentils, golden roasted peanuts, crispy chickpea flour sev, and aromatic spices in <strong>100% pure Sing Tel (cold-pressed groundnut oil)</strong>, this mixture delivers the perfect balance of taste, crispiness, and Kathiyawadi tradition.
+              Savor the authentic taste of <strong>Mix Chavanu (મિક્સ ચવાણું)</strong>, a crispy, aromatic Gujarati namkeen snack handcrafted by <strong>Bhagvat Prasadam</strong>. Made from stone-ground besan sev, spiced boondi, split chana &amp; moong lentils, roasted peanuts (singdana), and fragrant curry leaves slow-fried in <strong>100% pure Sing Tel (cold-pressed groundnut oil)</strong>. The perfect mixture namkeen for daily tea-time snacks and festive celebrations.
             </p>
 
             {/* Promotional Offers Badges (Free Shipping & Mobile App Discount) */}
@@ -191,7 +191,9 @@ export default function HeroSection() {
                 >
                   <img
                     src="/mix-chavanu-pack-main.webp"
-                    alt="Authentic Bhagvat Prasadam Mix Chavanu (મિક્સ ચવાણું) Sealed Packaging Pouch"
+                    alt="Bhagvat Prasadam Mix Chavanu 1kg pouch - Authentic Gujarati mixture namkeen in pure Sing Tel"
+                    width="400"
+                    height="400"
                     className="w-full max-h-[250px] sm:max-h-[300px] lg:max-h-[330px] object-contain mx-auto transform group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
                     loading="eager"
                   />
@@ -218,7 +220,10 @@ export default function HeroSection() {
             >
               <img
                 src="/mix-chavanu-crunch.webp"
-                alt="Crunchy Mix Chavanu Gujarati namkeen snack served in ceramic bowl"
+                alt="Crunchy Gujarati Chavanu namkeen mixture with lentils, roasted peanuts and sev served in a bowl"
+                width="144"
+                height="144"
+                loading="lazy"
                 className="w-full h-full object-cover"
               />
             </motion.a>

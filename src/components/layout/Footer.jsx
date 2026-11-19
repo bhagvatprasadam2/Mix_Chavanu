@@ -44,7 +44,9 @@ export default function Footer() {
                 >
                   <img
                     src="/mix-chavanu-logo.png"
-                    alt="Mix Chavanu Official Logo"
+                    alt="Bhagvat Prasadam Mix Chavanu Logo - Traditional Gujarati Namkeen"
+                    width="160"
+                    height="80"
                     className="h-16 sm:h-20 w-auto object-contain drop-shadow-sm group-hover:scale-105 transition-transform duration-300"
                   />
                 </a>
@@ -159,6 +161,8 @@ export default function Footer() {
             <img
               src="/mix-chavanu-footer-banner.jpg"
               alt="Authentic Gujarati Mix Chavanu Traditional Heritage Spread - Bhagvat Prasadam"
+              width="1440"
+              height="420"
               className="w-full h-full object-cover object-center"
               loading="lazy"
             />

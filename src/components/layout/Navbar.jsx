@@ -73,7 +73,9 @@ export default function Navbar() {
                 >
                   <img
                     src="/mix-chavanu-logo.png"
-                    alt="Mix Chavanu Official Logo"
+                    alt="Bhagvat Prasadam Mix Chavanu Logo - Authentic Gujarati Snacks"
+                    width="180"
+                    height="60"
                     className="h-11 sm:h-13 md:h-15 w-auto object-contain transform group-hover:scale-105 transition-transform duration-300 drop-shadow-sm"
                   />
                 </a>
@@ -135,7 +137,9 @@ export default function Navbar() {
               >
                 <img
                   src="/mix-chavanu-logo.png"
-                  alt="Mix Chavanu"
+                  alt="Bhagvat Prasadam Mix Chavanu Logo - Authentic Gujarati Snacks"
+                  width="150"
+                  height="48"
                   className="h-12 w-auto object-contain"
                 />
               </a>

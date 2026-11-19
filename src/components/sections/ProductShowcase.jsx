@@ -40,6 +40,9 @@ export default function ProductShowcase() {
               <img
                 src={MIX_CHAVANU_PRODUCT.images[activeImageIndex].url}
                 alt={MIX_CHAVANU_PRODUCT.images[activeImageIndex].alt}
+                width="600"
+                height="600"
+                loading="lazy"
                 className="w-full h-full object-contain p-4 sm:p-6 transition-transform duration-500 group-hover:scale-105"
               />
             </a>
@@ -63,6 +66,9 @@ export default function ProductShowcase() {
                     <img
                       src={img.url}
                       alt={img.alt}
+                      width="80"
+                      height="80"
+                      loading="lazy"
                       className="w-full h-full object-contain group-hover:scale-105 transition-transform"
                     />
                   </button>
@@ -85,12 +91,12 @@ export default function ProductShowcase() {
             </div>
 
             {/* Title */}
-            <h1 className="font-display font-black text-3xl sm:text-4xl text-[#3B2418] tracking-tight leading-tight mb-2">
+            <h2 className="font-display font-black text-3xl sm:text-4xl text-[#3B2418] tracking-tight leading-tight mb-2">
               {MIX_CHAVANU_PRODUCT.title}{' '}
               <span className="text-xl sm:text-2xl text-[#A8681E] font-normal">
                 ({MIX_CHAVANU_PRODUCT.titleGujarati})
               </span>
-            </h1>
+            </h2>
 
             {/* Subtitle & Ratings */}
             <div className="flex flex-wrap items-center gap-3 mb-4">

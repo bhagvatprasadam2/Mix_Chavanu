@@ -28,7 +28,9 @@ export default function BrandStory() {
             >
               <img
                 src="/mix-chavanu-festive.webp"
-                alt="Fresh Mix Namkeen perfect for Diwali snacks and daily tea-time ritual"
+                alt="Gujarati Chavanu namkeen snacks platter with hot chai for festive celebrations and tea time"
+                width="600"
+                height="450"
                 className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700"
                 loading="lazy"
               />
@@ -45,7 +47,10 @@ export default function BrandStory() {
             >
               <img
                 src="/mix-chavanu-authentic.webp"
-                alt="Authentic Gujarati Mix Namkeen platter with sev, lentils, and peanuts"
+                alt="Authentic Gujarati Mix Chavanu platter with crispy sev, fried lentils, and Saurashtra peanuts"
+                width="192"
+                height="192"
+                loading="lazy"
                 className="w-full h-full object-cover"
               />
             </a>
@@ -60,18 +65,18 @@ export default function BrandStory() {
 
             <h2 className="font-display font-black text-2xl sm:text-4xl text-[#3B2418] tracking-tight leading-tight mb-4">
               Handcrafted in Pure Sing Tel, <br />
-              <span className="text-[#F28C28]">Rooted in Nilkanthdham Tradition.</span>
+              <span className="text-[#F28C28]">Authentic Gujarati Chavanu Tradition.</span>
             </h2>
 
             <div className="space-y-3.5 text-xs sm:text-sm text-[#3B2418]/85 leading-relaxed mb-6">
               <p>
-                In every traditional Gujarati household, tea time is incomplete without a crunchy, aromatic bowl of <strong>Mix Chavanu (મિક્સ ચવાણું)</strong>. At <strong>Bhagvat Prasadam</strong>, we honor this timeless Kathiyawadi ritual by adhering strictly to the sacred preparation methods of Nilkanthdham Poicha.
+                In every traditional Gujarati household, tea time is incomplete without a crunchy, aromatic bowl of <strong>Mix Chavanu (મિક્સ ચવાણું / नमकीन मिक्स चवाणु)</strong>. At <strong>Bhagvat Prasadam</strong>, we honor this timeless Kathiyawadi snacking ritual rooted in the sacred culinary heritage of Nilkanthdham Poicha, Gujarat.
               </p>
               <p>
-                Unlike commercial snack brands that rely on cheap palm oil or heavy artificial flavor enhancers, our artisans slow-fry every batch exclusively in <strong>100% pure cold-pressed groundnut oil (Sing Tel)</strong>. Stone-milled Bengal gram flour sev, crispy spiced boondi, split chana and moong dal, and hand-selected Saurashtra peanuts are seasoned with pure Kashmiri red chilli, stone-ground turmeric, cumin, and rock salt.
+                Unlike commercial snack brands that rely on cheap palm oil or heavy artificial flavor enhancers, our artisans slow-fry every batch of <strong>Gujarati namkeen</strong> exclusively in <strong>100% pure cold-pressed groundnut oil (Sing Tel)</strong>. Stone-milled Bengal gram flour (besan) sev, crispy spiced boondi, split chana and moong dal, and hand-selected Saurashtra roasted peanuts (singdana) are seasoned with pure Kashmiri red chilli, stone-ground turmeric, roasted cumin, hing, and black salt.
               </p>
               <p className="font-semibold text-[#A8681E]">
-                The result is a clean, fragrant crunch that leaves zero oily heaviness — honest, satvik, and wholesome for your whole family.
+                The result is a clean, fragrant mixture namkeen with a distinctive nutty crunch that leaves zero oily heaviness — honest, satvik, and wholesome for your family and guests.
               </p>
             </div>
 

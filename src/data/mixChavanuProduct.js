@@ -23,7 +23,7 @@ export const MIX_CHAVANU_PRODUCT = {
   buyUrl: PRODUCT_BUY_URL,
   
   description: 
-    'Savor the authentic taste of Mix Chavanu (મિક્સ ચવાણું), a crunchy and flavorful Gujarati namkeen snack handcrafted by Bhagvat Prasadam. Made from premium lentils, roasted peanuts, golden chickpea flour sev, boondi, and aromatic Indian spices slow-fried in pure cold-pressed groundnut oil (Sing Tel), this mixture namkeen delivers the perfect balance of taste and tradition. A timeless favorite among traditional Indian namkeen, our Mix Namkeen is ideal for Diwali snacks, festive gifting, or everyday tea-time delight. Each bite is a crunchy blend of flavors that celebrates authenticity and purity.',
+    'Savor the authentic taste of Mix Chavanu (મિક્સ ચવાણું / नमकीन मिक्स चवाणु), a crunchy and flavorful Gujarati namkeen snack handcrafted by Bhagvat Prasadam. Made from premium split lentils (chana & moong dal), golden roasted Saurashtra peanuts (singdana), crispy chickpea flour (chana besan) sev, spiced boondi, and aromatic Indian spices slow-fried in 100% pure cold-pressed groundnut oil (Sing Tel), this traditional Gujarati mixture namkeen delivers the ideal balance of crunch, taste, and Kathiyawadi heritage. Ideal for tea-time snacking, festive gifting, and everyday enjoyment.',
 
   // Verified variants from Bhagvat Prasadam Shopify catalog with exact pricing and direct purchase links
   variants: [
@@ -86,56 +86,56 @@ export const MIX_CHAVANU_PRODUCT = {
     {
       id: 'pack-main',
       url: '/mix-chavanu-pack-main.webp',
-      alt: 'Bhagvat Prasadam Mix Chavanu Sealed Packaging Pouch',
+      alt: 'Bhagvat Prasadam Mix Chavanu 1kg Pouch - Authentic Gujarati Chavanu Namkeen in Sing Tel',
       caption: 'Original Bhagvat Prasadam Mix Chavanu Packaging',
       buyUrl: PRODUCT_BUY_URL
     },
     {
       id: 'pack-secondary',
       url: '/mix-chavanu-pack-secondary.webp',
-      alt: 'Bhagvat Prasadam Mix Chavanu Stand-Up Pouch',
+      alt: 'Mix Chavanu Gujarati Snacks Stand-Up Zipper Pouch - Freshness Preserved',
       caption: 'Multi-layer Stay-Fresh Resealable Zipper Pouch',
       buyUrl: PRODUCT_BUY_URL
     },
     {
       id: 'bowl-crunch',
       url: '/mix-chavanu-crunch.webp',
-      alt: 'Crunchy Mix Chavanu Gujarati namkeen snack served in bowl',
+      alt: 'Crunchy Mix Chavanu Gujarati namkeen snack served in ceramic bowl with peanuts and sev',
       caption: 'Golden Crispy Blend with Peanuts & Fried Lentils',
       buyUrl: PRODUCT_BUY_URL
     },
     {
       id: 'mixture-traditional',
       url: '/mix-chavanu-traditional.webp',
-      alt: 'Traditional mixture namkeen closeup',
+      alt: 'Traditional Gujarati Mixture Namkeen closeup with crisp sev, boondi and spices',
       caption: 'Aromatic Spices, Sev, Boondi & Lentil Crunch',
       buyUrl: PRODUCT_BUY_URL
     },
     {
       id: 'authentic-mix',
       url: '/mix-chavanu-authentic.webp',
-      alt: 'Authentic Gujarati Mix Namkeen platter',
+      alt: 'Authentic Gujarati Chavanu platter with fried chana dal, moong dal and singdana',
       caption: 'Classic Kathiyawadi Farsan Platter',
       buyUrl: PRODUCT_BUY_URL
     },
     {
       id: 'snack-bulk',
       url: '/mix-chavanu-snack.webp',
-      alt: 'Affordable Mix Chavanu bulk namkeen snack',
+      alt: 'Bhagvat Prasadam Mix Chavanu Indian namkeen snacks for tea time and gifting',
       caption: 'Crisp & Savory Tea-Time Snacking',
       buyUrl: PRODUCT_BUY_URL
     },
     {
       id: 'heritage-mix',
       url: '/mix-chavanu-heritage.webp',
-      alt: 'Traditional Indian namkeen mixture',
+      alt: 'Sing Tel Chavanu authentic Nilkanthdham Poicha Gujarati farsan heritage',
       caption: 'Authentic Nilkanthdham Poicha Farsan Heritage',
       buyUrl: PRODUCT_BUY_URL
     },
     {
       id: 'festive-snack',
       url: '/mix-chavanu-festive.webp',
-      alt: 'Fresh Mix Namkeen perfect Diwali snacks',
+      alt: 'Festive Gujarati Namkeen Mix Chavanu with cutting chai for Diwali and family occasions',
       caption: 'Perfect for Festive Feasts & Diwali Snacking',
       buyUrl: PRODUCT_BUY_URL
     }

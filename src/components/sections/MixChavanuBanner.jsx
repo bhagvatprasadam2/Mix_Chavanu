@@ -17,9 +17,11 @@ export default function MixChavanuBanner() {
           {/* Main High-Resolution Banner Image */}
           <img
             src="/mix-chavanu-banner.jpg"
-            alt="Mix Chavanu - Traditional Gujarati Namkeen, A Perfect Blend of Crunchy Flavors"
+            alt="Authentic Mix Chavanu Gujarati Namkeen Banner - Crisp mixture snack slow fried in pure Sing Tel groundnut oil"
+            width="1200"
+            height="400"
             className="w-full h-auto object-cover transform group-hover:scale-[1.01] transition-transform duration-700"
-            loading="eager"
+            loading="lazy"
           />
 
           {/* Subtle Warm Sheen Overlay on Hover */}

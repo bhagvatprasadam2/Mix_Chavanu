@@ -71,7 +71,9 @@ export default function HowToEnjoy() {
               <div className="relative aspect-[4/3] w-full overflow-hidden bg-[#FFF8E9]">
                 <img
                   src={r.image}
-                  alt={r.title}
+                  alt={`${r.title} - ${r.gujarati} - Gujarati Chavanu Snack`}
+                  width="400"
+                  height="300"
                   className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
                   loading="lazy"
                 />
